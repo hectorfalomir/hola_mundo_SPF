@@ -7,3 +7,5 @@ Esta es la modificación realizada desde la rama hector.
 ─██─███─███─██─██─██▄█
 ─██─▀██▄██▀─▀█▄█▀─██▀█
 ▄██▄▄█▀▀▀─────▀──▄██▄▄█
+
+Estos son los cambios hechos desde gitkraken.
